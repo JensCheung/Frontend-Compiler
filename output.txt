@@ -1,0 +1,37 @@
+Parse Tree:
+root
+  value
+    STRING: array
+    :
+    value
+      list
+        [
+        value
+          STRING: abc
+        ,
+        value
+          STRING: word
+        ]
+  value
+    STRING: dict
+    :
+    value
+      dict
+        {
+        pair
+          STRING: a
+          :
+          value
+            NUMBER: 3
+        ,
+        pair
+          STRING: b
+          :
+          value
+            NUMBER: 2
+        }
+  value
+    STRING: bool
+    :
+    value
+      BOOL: true

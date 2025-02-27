@@ -1,0 +1,22 @@
+<STRING, array>
+<COLON, :>
+<LBRACKET, [>
+<STRING, abc>
+<COMMA, ,>
+<STRING, word>
+<RBRACKET, ]>
+<STRING, dict>
+<COLON, :>
+<LBRACE, {>
+<STRING, a>
+<COLON, :>
+<NUMBER, 3>
+<COMMA, ,>
+<STRING, b>
+<COLON, :>
+<NUMBER, 2>
+<RBRACE, }>
+<STRING, bool>
+<COLON, :>
+<TRUE, true>
+<EOF>
